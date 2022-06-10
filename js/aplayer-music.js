@@ -6,7 +6,7 @@ const ap = new APlayer({
 	{
         name: 'Never Gonna Give You Up',
         artist: 'Rick Astley',
-        url: 'https://m701.music.126.net/20220604194712/98176002e02dbd7a2ed8f93b8b99c506/jdyyaac/0608/525f/0159/1b9ea4ee07e5c709f0f2633181f994e0.m4a',
+        url: 'https://m10.music.126.net/20220610230637/2060fb2e990108098e705c9b5770bfd3/ymusic/3d4e/8315/28e9/9cb6a7b879d0b7fe37f49348849efca5.mp3',
         cover: 'https://p2.music.126.net/JCByvg7bzHn26WOQI7b-AQ==/1766915185845816.jpg?param=200y200',
     }, 
 	]
